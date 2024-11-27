@@ -9,6 +9,7 @@
   * playbook.yml
   * script_ansible
 - vagrant up
-
-# docker et ansible dans la VM
+- vagrant ssh
+- docker --version
+- ansible --version
 
